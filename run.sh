@@ -1,0 +1,1 @@
+swiftc ./fetchcompounds.swift && ./fetchcompounds
